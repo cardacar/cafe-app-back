@@ -2,7 +2,7 @@
   
   "image": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especial-peligro-cafe-colombiano-f_2073a42a-592a-443c-86a7-d37d6cd3650a_2000x.png?v=1633554003",
   "brand": "Independiente",  
-  "price": 27.100,
+  "price": 27100,
   "rating": 1,
   "numReviews": 0,
   "isFeatured": true,
@@ -17,7 +17,7 @@
  
   "image": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/chimba_2000x.png?v=1633450912",
   "brand": "Independiente",
-  "price": 29.900,
+  "price": 29900,
   "rating": 5,
   "numReviews": 0,
   "isFeatured": true,
@@ -32,7 +32,7 @@
   
   "image": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especial-navegante-cafe-colombiano-f_2000x.png?v=1633555302",
   "brand": "Independiente",
-  "price": 28.600,
+  "price": 28600,
   "rating": 5,
   "numReviews": 0,
   "isFeatured": true,
@@ -47,7 +47,7 @@
 
   "image": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/thumbnails-tag-base_2000x.png?v=1621052151",
   "brand": "Independiente",
-  "price": 43.400,
+  "price": 43400,
   "rating": 5,
   "numReviews": 0,
   "isFeatured": true,
@@ -60,7 +60,7 @@
   "__v": 0
 },{
 
-  "image": "should be some path",
+  "image": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/prensa_2000x.png?v=1615170914",
   "brand": "Mobilix",
   "price": 1000,
   "rating": 5,
